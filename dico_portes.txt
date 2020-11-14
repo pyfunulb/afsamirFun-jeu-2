@@ -1,0 +1,5 @@
+(2, 5), ('La racine carré de indice1 = ?', '5')
+(3, 3), ('Le carré de indice1 = ?', '625')
+(7, 4), ('Indice2 à la puissance indice3 = ?', '1024')
+(5, 7), ('Indice2 à la puissance indice4 = ?', '2048')
+(8, 8), ('Le carré du produit  de indice2 et indice4 = ?', '484')
